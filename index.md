@@ -8,7 +8,9 @@ Hello and welcome to the Tide and Tales book fair ! Bienvenue à la première é
 
 Notre programmation diversifié propose des discussions animées, des séances dédicaces avec vos auteurs préférés, et un jeu concurs avec plusieurs lots à gagner !
 
-Renconterz 
+Rencontrez des écrivains romance et fantasy, échangez avec des créateurs de contenu bookstagram et booktok posez vos questions en rejoignant vos auteurs ou créateurs de contenu préférés à leur stand tout au long de la journée.
+
+Explorez Les Capucins, le site du festival, et découvrez les dernières publications et les trésors littéraires cachés et n'hesitez pas à demander des recommmandations livresques.
 
 
 
@@ -21,4 +23,7 @@ Renconterz
 
 
 
-[Home](index.md)|[Programmation](Programmation.md)|[F.A.Q.](Questions.md)|
+
+
+
+[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
