@@ -1,6 +1,4 @@
 ![logo](image/IMG0455.jpg)
-
-
 # Tide and Tales Bookfair
 ## Première édition du festival de livres Tide and Tales
 
