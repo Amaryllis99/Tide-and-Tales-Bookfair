@@ -15,8 +15,15 @@ Mais avant de nous demander, vérifiez que d'autres ne l'ont pas fait avant vous
 Oui, totalement! Cette première édition est organisée par des bénévoles et, grâce au soutien de l'association LiMon (Librairies du Monde), nous pouvons vous offrir une expérience à taille humaine.  
 
 **Où se déroulera le *Tide and Tales Bookfair* ?**  
-Notre première édition aura lieu aux **Ateliers des Capucins**, au **25 Rue de Pontaniou, 29200 Brest**
+Notre première édition aura lieu aux **Ateliers des Capucins**, au **25 Rue de Pontaniou, 29200 Brest**  
 
+**Y aura-t-il une deuxième édition?**  
+Nous l'espérons! Cela dépendra de vous, chers lecteurs. Si cette première édition vous plaît, nous serions ravies d'en organiser une deuxième, une troisième et tant d'autres!
 
+**Y aura-t-il des stands de restauration sur place?**
+Bien évidemment. Les restaurants habituellement présents aux Capucins seront heureux de vous servir. Vous trouverez également d'autres stands éphémères en tout genre.  
+
+**Quels auteurs seront présents à ce festival?**  
+Pour de plus amples informations à ce sujet, je vous renvoie vers la page [
 
 [Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
