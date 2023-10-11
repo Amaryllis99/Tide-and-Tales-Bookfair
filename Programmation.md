@@ -1,6 +1,6 @@
 # <center><font color='#B978FF'>Programmation</font></center> #
 
-Horaires du festibook: 9h-17h
+Le festival ouvrira ses portes de 9h à 17h, du vendredi 20 au dimanche 22 septembre 2024.
 
 |Horaires|Vendredi 20/09|Samedi 21/09|Dimanche 22/09|
 |:----:|:----:|:----:|:----:|
