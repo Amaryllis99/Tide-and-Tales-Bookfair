@@ -1,14 +1,14 @@
-#Where To?
+# Where To?
 
 Le festival se déroulera aux Ateliers Les Capucins, voici un plan pour s'y rendre :
 
-![capucins]
+![capucins](image/capucins.png)
 
 
-* vous pouvez vous y rendre en prennant le téléphérique et admirer la vue spéctaculaire
-* vous pouvez vous y rendre en prennant le tramway de l'arrêt Liberté à l'arrêt Les Capucins
+* vous pouvez vous y rendre en prennant le téléphérique et admirer la vue spéctaculaire.
+* vous pouvez vous y rendre en prennant le tramway de l'arrêt Liberté à l'arrêt Les Capucins.
   
-
+Le festival se tiendra 
 
 
 
