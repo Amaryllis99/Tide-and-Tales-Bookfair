@@ -26,6 +26,24 @@ Richard Russell Riordan est l'auteur de les célèbres fantasy *Percy Jackson* e
 
 Ana Huang est auteure best-sellers USA Today et première du classement Amazon. Devenue célèbre grâce à sa série Twisted, elle écrit des romances contemporaines.
 
+![julie]
+
+Julie Ferrat est une jeune créatrice de contenus de 20 ans ; elle partage avec sa communauté son quotidien dans le Sud et ses passion notamment la lecture.
+
+![brad]
+
+Créateur de contenu et auteur du livre *Academy of Blood*. Il devient connu grâce à ses videos booktook.
+
+![steph]
+
+Steph Bohrer dévient connue sur TikTok grâce à ses vidéos de comédia qui lui a rapporté plus de 800 000 abonnés. Elle publie des vlogs, et vidéo lifestyle et des recommandation de livres sur sa chaîne Youtube.
+
+![lucy]
+
+Lucy aka @loquaciousliterature devient connue grâce à son blog Tumblr et pour son contenu sur Harry Potter.
+
+![bookmarkdpod]
+Le podcast Bookmark'dpod est le duo formé par les deux créatrices de contenus Sara Carrolli et Destiny Sidwell, qui tous les jeudis sortent un épisode pour parler de livres.
 
 
 
