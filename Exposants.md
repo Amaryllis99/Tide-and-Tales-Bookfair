@@ -14,7 +14,7 @@ Leigh Bardugo, est une auteure américaine de romans de fantasy jeune adulte, pr
 Lauren Asher est une auteure de romance contemporaine qui a été primée par *USA Today*, le *Wall Street Journal*, le *Sunday Times*, le *Globe and Mail* et *Publishers Weekly*. Ses romances les plus appréciées sont la série Dreamland Billionaires et Dirty Air.
 
 
-![sarah]
+![sarah](image/image0.jpeg)
 
 Sarah J. Maas est une auteure de fanstasy américaine connue pour la serie de livres *Throne of Glass* et *A Court of Thorns and Roses*. En 2022 elle vend plus de douze milions de copie de ses livres et ses oeuvres ont été traduites en plus de 37 langues.
 
