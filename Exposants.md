@@ -36,11 +36,15 @@ Créateur de contenu et auteur du livre *Academy of Blood*. Il devient connu gr�
 
 ![steph]
 
-Steph Bohrer dévient connue sur TikTok grâce à ses vidéos de comédia qui lui a rapporté plus de 800 000 abonnés. Elle publie des vlogs, et vidéo lifestyle et des recommandation de livres sur sa chaîne Youtube.
+Steph Bohrer dévient connue sur TikTok grâce à ses vidéos de comédie qui lui ont rapporté plus de 800 000 abonnés. Elle publie regulierement des vlogs, et vidéo lifestyle et des recommandation de livres sur sa chaîne Youtube.
 
 ![lucy]
 
-Lucy aka @loquaciousliterature devient connue grâce à son blog Tumblr et pour son contenu sur Harry Potter.
+Lucy aka @loquaciousliterature devient connue grâce à son blog Tumblr et pour son contenu comix sur Harry Potter.
+
+![thewritersgarden]
+Créatrice de contenus et auteure suivie par 90 000 personnes sur Instagram, publie régulièremenr du contenus et des coneils sur le processus d'écriture.
+
 
 ![bookmarkdpod]
 Le podcast Bookmark'dpod est le duo formé par les deux créatrices de contenus Sara Carrolli et Destiny Sidwell, qui tous les jeudis sortent un épisode pour parler de livres.
