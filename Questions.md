@@ -24,6 +24,6 @@ Nous l'espérons! Cela dépendra de vous, chers lecteurs. Si cette première éd
 Bien évidemment. Les restaurants habituellement présents aux Capucins seront heureux de vous servir. Vous trouverez également d'autres stands éphémères en tout genre.  
 
 **Quels auteurs seront présents à ce festival?**  
-Nous aurons le plaisir d'accueillir des créateurs de contenus littéraires Tiktok et Instagram, ainsi que de célèbres auteurs. Pour de plus amples informations à ce sujet, je vous renvoie vers la page des [Exposants](Exposants.md). Elle devrait satisfraire votre curiosité !
+Nous aurons le plaisir d'accueillir des créateurs de contenus littéraires Tiktok et Instagram, ainsi que de célèbres auteurs. Pour de plus amples informations à ce sujet, je vous renvoie vers la page de nos [exposants](Exposants.md). Elle devrait satisfraire votre curiosité !
 
 [Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
