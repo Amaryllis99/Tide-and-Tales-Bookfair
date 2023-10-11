@@ -7,9 +7,9 @@
 
 Hello and welcome to the Tide and Tales Bookfair ! Bienvenue à la première édition brestoise du festival de livre Tide and Tales Bookfair, l'événement littéraire incontournable de l'année. Du 20 au 22 septembre 2024, plongez gratuitement dans l'univers de la romance et de la fantasy! 
 
-Notre programmation diversifiée propose des discussions animées, des séances dédicaces avec vos auteurs préférés, et un jeu concours avec plusieurs lots à gagner !
+Notre programmation diversifiée propose des discussions animées, des séances dédicaces avec vos auteurs préférés et un jeu concours avec plusieurs lots à gagner !
 
-Rencontrez des écrivains romance et fantasy tels que Ana Huang et Rick Riordan, échangez avec des créateurs de contenu bookstagram et booktok comme @wintersgarden ou @julieferrat posez vos questions en rejoignant vos auteurs ou créateurs de contenu préférés à leur stand tout au long de la journée.
+Rencontrez des écrivains romance et fantasy tels que Ana Huang et Rick Riordan, échangez avec des créateurs de contenu bookstagram et booktok comme @wintersgarden ou @julieferrat et posez vos questions en rejoignant vos auteurs ou créateurs de contenu préférés à leur stand tout au long de la journée.
 
 Explorez Les Capucins, le site du festival, et découvrez les dernières publications, les trésors littéraires cachés et n'hésitez pas à demander des recommmandations livresques.
 
