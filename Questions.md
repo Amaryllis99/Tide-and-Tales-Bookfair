@@ -1,7 +1,9 @@
 # <center>F.A.Q.</center>
 
 ## Bienvenue sur notre F.A.Q. !
-Si vous cherchez des informations sur le festival, les activités au programme ou sur le nom la couleur préférée de votre auteur favori, c'est ici qu'il faut vous trouver !
+Si vous cherchez des informations sur le festival, les activités au programme ou bien 
+~~le nom de la couleur préférée de votre auteur favori~~
+, c'est ici qu'il faut vous trouver !
 
 Mais avant de nous demander, vérifiez que d'autres ne l'ont pas fait avant vous.
 
@@ -9,4 +11,7 @@ Mais avant de nous demander, vérifiez que d'autres ne l'ont pas fait avant vous
 
 *« Si vous devez demander, jamais vous ne saurez. Si vous savez, il vous suffit de demander. » Helena Serdaigle*
 
+**L'accès au festival est-il gratuit?**
+
+Oui, totalement! Cette première édition est organisée par des bénévoles et, grâce au soutien de l'association LiMon (Librairies du Monde), nous pouvons vous offrir une expérience à taille humaine.
 [Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
