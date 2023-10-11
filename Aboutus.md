@@ -18,6 +18,6 @@ Amaryllis Cormao : amaryllis.cormao12@gmail.com
 
 N'hésitez pas non plus à aller vous renseigner sur notre partenaire, l'association LiMon. Si cette première édition est gratuite, c'est avant tout grâce à lui.  
 L'association réunit des fonds afin de permettre aux plus démunis d'accéder à la littérature. LiMon organise des festivals, des rencontres littéraires et des salons à travers le monde entier.  
-Le site internet est accessible [ici](https://www.ticketmaster.fr/)
+Le site internet est accessible [ici](https://www.LiMon.com/).
 
 [Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
