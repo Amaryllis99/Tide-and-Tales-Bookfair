@@ -18,11 +18,11 @@ Lauren Asher est une auteure de romance contemporaine qui a été primée par *U
 
 Sarah J. Maas est une auteure de fanstasy américaine connue pour la serie de livres *Throne of Glass* et *A Court of Thorns and Roses*. En 2022 elle vend plus de douze milions de copie de ses livres et ses oeuvres ont été traduites en plus de 37 langues.
 
-![rick](image/image1.jpg)
+![rick](image/rick.jpeg)
 
 Richard Russell Riordan est l'auteur de les célèbres fantasy *Percy Jackson* et *Les Héros de l'Olympe*. Ses livres ont été traduits en plus de 42 langues et a vendu plus de 30 milion de copies seulement aux États-Unis. La platforme de streaming DIsney + va adapter les livres *Percy Jackson* en série qui sortira en décembre 2023.
 
-![ana](image/image2.jpg)
+![ana](image/ana.jpeg)
 
 Ana Huang est auteure best-sellers USA Today et première du classement Amazon. Devenue célèbre grâce à sa série Twisted, elle écrit des romances contemporaines.
 
