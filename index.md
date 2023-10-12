@@ -1,4 +1,5 @@
-<img align="right" src="image/IMG0455.jpg" width=200/>
+<img align="center" src="image/IMG0455.jpg" width=200/>
+
 # Tide and Tales Bookfair
 ## Première édition du festival de livres Tide and Tales
 
