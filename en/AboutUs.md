@@ -1,4 +1,4 @@
-# <center>Why not us too?</center>
+# <center>"Why not us too?"</center>
 
 The **Tide and Tales Bookfair** project was born from the meeting of two minds in search of adventure.
 What started out as a joke has now metamorphosed into a very real festival that opens its doors to you from **September 20 to 22, 2024**!
