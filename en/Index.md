@@ -1,9 +1,9 @@
-<img align="center" src="image/IMG0455.jpg" width=200/>
+<img align="center" src="../image/IMG0455.jpg" width=200/>
 
 # Tide and Tales Bookfair
 ## First edition of the Tide and Tales Bookfair
 
-![Bookfair](image/bookfair.jpg) 
+![Bookfair](../image/bookfair.jpg) 
 
 
 Bonjour et bienvenue à l'évènement Tide and Tales Bookfair! Welcome to the first Brest edition of the Tide and Tales Bookfair, the literary event of the year. From September 20 to 22, 2024, immerse yourself in the world of romance and fantasy, free of charge! 
@@ -34,4 +34,4 @@ Join us in celebrating the magic of words and stories. Together, let's create un
 
 
 
-[Home](Index.md)|[Exposants](Exhibitors.md)|[Programmation](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[French site](index.md)
+[Home](Index.md)|[Exposants](Exhibitors.md)|[Programmation](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[French site](../fr/index.md)
