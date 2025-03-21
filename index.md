@@ -23,16 +23,4 @@ Explorez Les Capucins, le site du festival, et découvrez les dernières publica
 Rejoignez-nous pour célébrer la magie des mots et des histoires. Ensemble, créons des souvenirs littéraiers inoubliables. Nous avons hâte de vous accueillir au Tide and Tales Bookfair !
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)
+[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](Index.md)
