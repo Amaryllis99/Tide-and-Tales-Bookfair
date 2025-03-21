@@ -14,4 +14,4 @@ Each day will feature two interviews with an author/creator duo. The first will 
 But these interviews won't be your only opportunity to interact with the festival guests! Each of our 12 guests will have their own stand, so you can chat with them over the three days of the festival.  
 See you then,
 
-[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)
+[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](index.md)
