@@ -8,7 +8,7 @@ But whatever your question, remember to check that others haven't asked it befor
 
 ![Harry Potter and the Deathly Hallows](image/HelenaSerdaigle.png)
 
-> *If you have to ask, you'll never know. If you know, all you have to do is ask.” Helena Serdaigle*
+> *If you have to ask, you'll never know. If you know, you need only ask.” Helena Serdaigle*
 
 **Is admission to the festival free?  
 Yes, totally! This first edition is organized by volunteers and, thanks to the support of the LiMon association (Librairies du Monde), we can offer you an experience on a human scale.  
