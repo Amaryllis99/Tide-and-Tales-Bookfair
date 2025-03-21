@@ -5,7 +5,7 @@ Si vous cherchez des informations sur le festival, les activités au programme o
 ~~le nom de la couleur préférée de votre auteur favori~~, c'est ici qu'il faut vous trouver !  
 Mais quelle que soit votre question, pensez à vérifier que d'autres ne l'ont pas posée avant vous.  
 
-![Harry Potter and the Deathly Hallows](image/HelenaSerdaigle.png)
+![Harry Potter and the Deathly Hallows](../image/HelenaSerdaigle.png)
 
 > *« Si vous devez demander, jamais vous ne saurez. Si vous savez, il vous suffit de demander. » Helena Serdaigle*
 
@@ -24,4 +24,4 @@ Bien évidemment. Les restaurateurs habituellement présents aux Capucins seront
 **Quels auteurs seront présents à ce festival ?**  
 Nous aurons le plaisir d'accueillir des créateurs de contenus littéraires Tiktok et Instagram, ainsi que de célèbres auteurs. Pour de plus amples informations à ce sujet, je vous renvoie vers la page de nos [exposants](Exposants.md). Elle devrait satisfaire votre curiosité !
 
-[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](Index.md)
+[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](../en/Index.md)
