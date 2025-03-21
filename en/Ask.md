@@ -6,7 +6,7 @@ If you're looking for information about the festival, the activities on the prog
 ~~the name of your favorite author's favorite color~~, this is the place to be!  
 But whatever your question, remember to check that others haven't asked it before you.
 
-![Harry Potter and the Deathly Hallows](image/HelenaSerdaigle.png)
+![Harry Potter and the Deathly Hallows](../image/HelenaSerdaigle.png)
 
 > *If you have to ask, you'll never know. If you know, you need only ask.” Helena Serdaigle*
 
@@ -32,4 +32,4 @@ Of course. The usual restaurateurs at Les Capucins will be happy to serve you. Y
 We'll be delighted to welcome Tiktok and Instagram literary content creators, as well as famous authors. For more information, please visit our [exhibitors] page (Exhibitors.md). It should satisfy your curiosity!
 
 
-[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](index.md)
+[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](../fr/index.md)
