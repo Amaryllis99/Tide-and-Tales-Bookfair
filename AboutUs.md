@@ -18,4 +18,4 @@ And don't hesitate to find out more about our partner, the **LiMon** association
 The association raises funds to give the underprivileged access to literature. LiMon organizes festivals, literary gatherings and fairs around the world.  
 The website can be accessed [here](https://www.LiMon.com/).
 
-[Home](Index.md)|[Exposants](Exhibitors.md)|[Programmation](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[French site](index.md)
+[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)
