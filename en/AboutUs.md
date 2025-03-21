@@ -1,3 +1,5 @@
+# Why not us too?
+
 The **Tide and Tales Bookfair** project was born from the meeting of two minds in search of adventure.
 What started out as a joke has now metamorphosed into a very real festival that opens its doors to you from **September 20 to 22, 2024**!
 The paths of **Yasmine Boulmerka** and **Amaryllis Cormao** crossed for the first time in 2017, on the benches of a Breton university. The two young women didn't yet know each other, but they already had several things in common: their taste for travel and their love of literature. Yasmine spent her childhood traveling between Italy, Belgium and France, returning to Brest only to start her LLCER degree, while Amaryllis criss-crossed France, following her family wherever they moved. 
