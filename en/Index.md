@@ -6,7 +6,7 @@
 ![Bookfair](image/bookfair.jpg) 
 
 
-Hello and welcome to the Tide and Tales Bookfair! Welcome to the first Brest edition of the Tide and Tales Bookfair, the literary event of the year. From September 20 to 22, 2024, immerse yourself in the world of romance and fantasy, free of charge! 
+Bonjour et bienvenue à l'évènement Tide and Tales Bookfair! Welcome to the first Brest edition of the Tide and Tales Bookfair, the literary event of the year. From September 20 to 22, 2024, immerse yourself in the world of romance and fantasy, free of charge! 
 
 Our diverse program features lively discussions, book signings with your favorite authors and a contest with lots of prizes to be won!
 
