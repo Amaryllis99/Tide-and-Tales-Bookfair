@@ -15,4 +15,4 @@ The festival will be held over three days on the ground floor of Les Capucins:
 
 
 
-[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](../fr/index.md)
+[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](../fr/Whereto.md)
