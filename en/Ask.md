@@ -32,4 +32,4 @@ Of course. The usual restaurateurs at Les Capucins will be happy to serve you. Y
 We'll be delighted to welcome Tiktok and Instagram literary content creators, as well as famous authors. For more information, please visit our [exhibitors] page (Exhibitors.md). It should satisfy your curiosity!
 
 
-[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](../fr/index.md)
+[Home](Index.md)|[Exhibitors](Exhibitors.md)|[Programming](Programming.md)|[About us](AboutUs.md)|[F.A.Q.](Ask.md)|[Find us](WhereTo.md)|[Site in French](../fr/Questions.md)
