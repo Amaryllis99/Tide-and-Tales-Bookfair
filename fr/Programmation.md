@@ -14,4 +14,4 @@ Chaque jour sera rythmé par deux interviews d'un duo auteur/créateur. La premi
 Mais ces interviews ne seront pas votre seule occasion d'interagir avec les invités de ce festival ! Chacun de nos 12 invités aura son propre stand et vous pourrez ainsi discuter avec eux au cours des trois jours du festival.  
 Alors, venez nombreux!
 
-[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](Index.md)
+[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](../en/Index.md)
