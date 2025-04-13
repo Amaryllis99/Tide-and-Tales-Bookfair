@@ -19,4 +19,4 @@ E non esitate a scoprire di più sul nostro partner, l'associazione **LiMon**. S
 L'associazione raccoglie fondi per dare accesso alla letteratura alle persone più svantaggiate. LiMon organizza festival, eventi letterari e fiere in tutto il mondo.  
 Il sito web è accessibile [qui] (https://www.LiMon.com/).
 
-[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovarci](Whereto.md)|[Sito in francese](../fr/AboutUs.md)
+[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovarci](Whereto.md)|[Sito in francese](../fr/Aboutus.md)
