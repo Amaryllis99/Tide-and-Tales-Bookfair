@@ -13,4 +13,4 @@ Le festival se tiendra sur trois jours au rez-de-chaussé des Capucins :
 ![ateliers](../image/ateliersc.jpg)
 
 
-[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovarci](Whereto.md)|[Sito in francese](../it/Whereto.md)
+[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovarci](Whereto.md)|[Sito in francese](../fr/Whereto.md)
