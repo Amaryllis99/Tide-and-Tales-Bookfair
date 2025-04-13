@@ -1,4 +1,4 @@
-#<center>“E perché non noi?”</center>
+# <center>“E perché non noi?”</center>
 
 Il progetto **Tide and Tales Bookfair** è nato dall'incontro di due menti in cerca di avventura.
 Quello che era iniziato come uno scherzo si è ora trasformato in un vero e proprio festival che vi aprirà le porte dal **20 al 22 settembre 2024**!
