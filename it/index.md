@@ -24,4 +24,4 @@ Esplorate Les Capucins, il sito del festival, e scoprite le ultime pubblicazioni
 Unitevi a noi per celebrare la magia delle parole e delle storie. Insieme, creiamo ricordi letterari indimenticabili. Saremo lieti di darvi il benvenuto alla Fiera del Libro Tides and Tales!
 
 
-[Home](index.md)|[Standista](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovaci](Whereto.md)|[Sito in francese](../fr/index.md)
+[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovaci](Whereto.md)||[Site en anglais](../en/Programming.md)|[Sito in francese](../fr/index.md)
