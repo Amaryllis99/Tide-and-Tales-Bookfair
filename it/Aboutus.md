@@ -1,4 +1,4 @@
-<center>“E perché non noi?”</center>
+#<center>“E perché non noi?”</center>
 
 Il progetto **Tide and Tales Bookfair** è nato dall'incontro di due menti in cerca di avventura.
 Quello che era iniziato come uno scherzo si è ora trasformato in un vero e proprio festival che vi aprirà le porte dal **20 al 22 settembre 2024**!
@@ -18,3 +18,5 @@ Amaryllis Cormao: amaryllis.cormao12@gmail.com
 E non esitate a scoprire di più sul nostro partner, l'associazione **LiMon**. Se questa prima edizione è gratuita, è soprattutto grazie a loro.  
 L'associazione raccoglie fondi per dare accesso alla letteratura alle persone più svantaggiate. LiMon organizza festival, eventi letterari e fiere in tutto il mondo.  
 Il sito web è accessibile [qui] (https://www.LiMon.com/).
+
+[Home](index.md)|[Standisti](Exposants.md)|[Programmazione](Programmation.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovarci](Whereto.md)|[Sito in francese](../fr/AboutUs.md)
