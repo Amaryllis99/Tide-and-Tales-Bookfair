@@ -13,4 +13,4 @@ Ogni giornata prevede due interviste a un duo autore/content creator. La prima a
 Ma queste interviste non saranno l'unica occasione per interagire con gli ospiti del festival! Ognuno dei nostri 12 ospiti avrà un proprio stand, così potrete chiacchierare con loro durante i tre giorni del festival.  
 Quindi venite tutti!
 
-[Home](index.md)|[Standisti](Exhibitors.md)|[Programmazione](Programming.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovaci](Whereto.md)|[Sito in francese](../fr/programmation.md)
+[Home](index.md)|[Standisti](Exhibitors.md)|[Programmazione](Programming.md)|[Chi siamo](Aboutus.md)|[F.A.Q.](Questions.md)|[Trovaci](Whereto.md)|[Site en anglais](../en/Programming.md)|[Sito in francese](../fr/programmation.md)
