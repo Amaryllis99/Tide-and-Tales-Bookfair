@@ -50,4 +50,4 @@ Le podcast Bookmark'dpod est le duo formé par les deux créatrices de contenus 
 
 
 
-[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](../en/Exhibitors.md)
+[Home](index.md)|[Exposants](Exposants.md)|[Programmation](Programmation.md)|[À propos](Aboutus.md)|[F.A.Q.](Questions.md)|[Nous trouver](Whereto.md)|[Site en anglais](../en/Exhibitors.md)|[Sito in italiano](../it/Exposants.md)
